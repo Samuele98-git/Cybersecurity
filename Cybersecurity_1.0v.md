@@ -39,8 +39,6 @@ Other information, such as name, social security number, date and place of birth
 is known by you and used to identify you. Information such as medical, educational, financial, 
 and employment information, can also be used to identify you online.
 
-![Data_circle](data_medical_rec.png)
-
 * **Medical records.**  
 Every time you go to the doctor’s office, more information is added to your electronic health records (EHRs).
 The prescription from your family doctor becomes part of your EHR. Your EHR includes your physical health,
@@ -62,6 +60,8 @@ records including individualized education programs (IEPs).
 Your financial record may include information about your income and expenditures. 
 Tax records could include paycheck stubs, credit card statements, your credit rating and other 
 banking information. Your employment information can include your past employment and your performance.
+
+![Data_circle](data_medical_rec.png)
 
 ### Where is your data
 
