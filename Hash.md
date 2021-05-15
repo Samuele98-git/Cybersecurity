@@ -36,9 +36,9 @@ c. Open the **hashcalc.zip** file and run the **setup.exe** file inside.
 
 ![Lab1_3](Lab1_3ss.PNG)
 
-d. Follow the installation wizard to install HashCalc.
-e. Click **Finish** on the last screen, and close the **README** file if it opened. You may read the file if you wish.
-f. HashCalc is now installed and running.
+d. Follow the installation wizard to install HashCalc.                                                                            
+e. Click **Finish** on the last screen, and close the **README** file if it opened. You may read the file if you wish.                                                        
+f. HashCalc is now installed and running.                                                                         
 
 ![Lab1_4](Lab1_4ss.PNG)
 
@@ -47,7 +47,8 @@ a. Set the following items in HashCalc:
    1. Data Format: **File**. 
    1. Data: Click the ...button next to the Data field, navigate to the **Desktop** and choose the **Hash.txt** file.
    1. Uncheck **HMAC**. 
-   1. Uncheck all hash types except **MD5**.                                                                   
+   1. Uncheck all hash types except **MD5**. 
+                                                                  
 b. Click the **Calculate** button. 
 
 What is the value next to **MD5**?
@@ -60,13 +61,13 @@ c. Click **File > Save**, and close **Notepad**.
 #### Step 5: Calculate a new hash of the Hash.txt file 
 a. Click the **Calculate** button in HashCalc again.
 
-	      What is the value next to **MD5**?
+	      What is the value next to MD5?
 
 	      Is the value different from the value recorded in Step 3? 
 
-b. Place a check mark next to all of the hash types.
-c. Click **Calculate**.
-d. Notice that many of the hash types create a hash of a different length. Why?
+b. Place a check mark next to all of the hash types.                                                              
+c. Click **Calculate**.                                                                                             
+d. Notice that many of the hash types create a hash of a different length. Why?                                                                        
 
 
 
