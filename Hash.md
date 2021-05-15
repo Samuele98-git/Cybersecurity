@@ -17,21 +17,21 @@ If any change is performed on the data, the hash value returned will be differen
 * PC with Internet access
 
 #### Step 1: Create a Text file 
-a. Search your computer for the Notepad program and open it.
-b. Type some text in the program. 
+a. Search your computer for the Notepad program and open it.                                                      
+b. Type some text in the program.                                                                                 
 
 ![Lab1_1](Lab1_1ss.PNG)
 
-c. Choose **File > Save**.
-d. Navigate to **Desktop**. 
-e. Type **Hash** in the **File name**: field, and click **Save**.
+c. Choose **File > Save**.                                                                                    
+d. Navigate to **Desktop**.                                                                                     
+e. Type **Hash** in the **File name**: field, and click **Save**.                                                      
 
 #### Step 2: Install HashCalc
-a. Open a web browser and navigate to http://www.slavasoft.com/download.htm.
+a. Open a web browser and navigate to http://www.slavasoft.com/download.htm.                                      
 
 ![Lab1_2](Lab1_2ss.PNG)
 
-b. Click **Download** in the **HashCalc 2.02** row.
+b. Click **Download** in the **HashCalc 2.02** row.                                                                                                                            
 c. Open the **hashcalc.zip** file and run the **setup.exe** file inside.
 
 ![Lab1_3](Lab1_3ss.PNG)
@@ -47,20 +47,21 @@ a. Set the following items in HashCalc:
    1. Data Format: **File**. 
    1. Data: Click the ...button next to the Data field, navigate to the **Desktop** and choose the **Hash.txt** file.
    1. Uncheck **HMAC**. 
-   1. Uncheck all hash types except **MD5**.
+   1. Uncheck all hash types except **MD5**.                                                                   
 b. Click the **Calculate** button. 
 
 What is the value next to **MD5**?
 
 #### Step 4: Make a change to the Hash.txt file
-a. Navigate to the **Desktop** and open the **Hash.txt** file.
-b. Make a minor change to the text, such as deleting a letter, or adding a space or period.
-c. Click **File > Save**, and close **Notepad**.
+a. Navigate to the **Desktop** and open the **Hash.txt** file.                                                 
+b. Make a minor change to the text, such as deleting a letter, or adding a space or period.                        
+c. Click **File > Save**, and close **Notepad**.                                                                 
 
 #### Step 5: Calculate a new hash of the Hash.txt file 
 a. Click the **Calculate** button in HashCalc again.
 
-              What is the value next to **MD5**?
+	      What is the value next to **MD5**?
+
 	      Is the value different from the value recorded in Step 3? 
 
 b. Place a check mark next to all of the hash types.
