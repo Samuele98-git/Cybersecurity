@@ -70,42 +70,103 @@ and data in your country. But do you know where your data is?
 When you are at the doctor’s office, the conversation you have with the doctor 
 is recorded in your medical chart. 
 For billing purposes, this information may be shared with the insurance company to ensure 
-appropriate billing and quality. Now, a part of your medical record for the visit is also at the insurance company. The store loyalty cards maybe a convenient way to save money for your purchases. 
+appropriate billing and quality. Now, a part of your medical record for the visit is also at the insurance company. 
+The store loyalty cards maybe a convenient way to save money for your purchases. 
 However, the store is compiling a profile of your purchases and using that information for its own use. 
 The profile shows a buyer purchases a certain brand and flavor of toothpaste regularly. 
 The store uses this information to target the buyer with special offers from the marketing partner. 
 By using the loyalty card, the store and the marketing partner have a profile for the purchasing 
 behavior of a customer.
 When you share your pictures online with your friends, do you know who may have a copy of the pictures? 
-Copies of the pictures are on your own devices. Your friends may have copies of those pictures downloaded onto their devices. If the pictures are shared publicly, strangers may have copies of them, too. 
+Copies of the pictures are on your own devices. 
+Your friends may have copies of those pictures downloaded onto their devices. If the pictures are shared 
+publicly, strangers may have copies of them, too. 
 They could download those pictures or take screenshots of those pictures. 
 Because the pictures were posted online, they are also saved on servers located in different 
 parts of the world. Now the pictures are no longer only found on your computing devices.
 
 ### Your Computing Devices
 
-Your computing devices do not just store your data.  Now  these devices have become the portal to your data and generate information about you. Unless you have chosen to receive paper statements for all  of your accounts, you use your computing devices to access the data. If  you want a digital copy of the most recent credit card statement, you  use your computing devices to access the website of the credit card  issuer. If you want to pay your credit card bill online, you access the  website of your bank to transfer the funds using your computing devices. Besides allowing you to access your information, the computing devices  can also generate information about you. With all this information about you available online,             your personal data has become profitable to hackers.
+Your computing devices do not just store your data.  
+Now  these devices have become the portal to your data and generate information about you. 
+Unless you have chosen to receive paper statements for all  of your accounts, you use your computing devices to access the data. 
+If  you want a digital copy of the most recent credit card statement, you  use your computing devices 
+to access the website of the credit card  issuer. 
+If you want to pay your credit card bill online, you access the website of your bank to transfer the funds using your computing devices. 
+Besides allowing you to access your information, the computing devices can also generate information about you. With all this information about you available online, 
+your personal data has become profitable to hackers.
 
 ### They Want Your Money
 
-If you have anything of value, the criminals want it. Your online credentials are valuable. These credentials  give the thieves access to your accounts. You may think the frequent flyer miles you have earned are not valuable to cybercriminals. Think again. After approximately 10,000 American Airlines and United accounts  were hacked, cybercriminals booked free flights and upgrades using these stolen credentials. Even though the frequent flyer miles were returned  to the customers by the airlines, this demonstrates the value of login  credentials. A criminal could also take advantage of your relationships. They could access your online accounts and your reputation to trick you into wiring money to your friends or family. The criminal can send messages stating that your family or friends need you to wire them money so they can get home from abroad after losing their wallets. The criminals are very imaginative when they are trying to  trick you into giving them money. They do not just steal your money; they could also steal your identity and ruin your life, we will talk about it next.
+If you have anything of value, the criminals want it. 
+Your online credentials are valuable. These credentials give the thieves access to your accounts. 
+You may think the frequent flyer miles you have earned are not valuable to cybercriminals. Think again. 
+After approximately 10,000 American Airlines and United accounts were hacked, cybercriminals booked free flights and upgrades 
+using these stolen credentials. Even though the frequent flyer miles were returned to the customers by the airlines, this demonstrates the value of login credentials. 
+A criminal could also take advantage of your relationships.They could access your online accounts and your reputation to trick you into wiring money to your friends or family. 
+The criminal can send messages stating that your family or friends need you to wire them money so they can get home from abroad after losing their wallets. The criminals are 
+very imaginative when they are trying to trick you into giving them money.
+They do not just steal your money; they could also steal your identity and ruin your life, we will talk about it next.
 
 ### They Want Your Identity
 
-Besides stealing your money for a short-term monetary gain, the criminals want long-term profits by stealing your identity. As medical costs rise, medical identity theft is also on the rise. The identity thieves can steal your medical insurance and use your medical  benefits for themselves, and these medical procedures are now in your medical records. The annual tax filing procedures may vary from country to country;  however, cybercriminals see this time as an opportunity. For example,  the people of the United States need to file their taxes by April 15 of  each year. The Internal Revenue Service (IRS) does not check the tax  return against the information from the employer until July. An identity thief can file a fake tax return and collect the refund. The legitimate filers will notice when their returns are rejected by IRS. With the  stolen identity, they can also open credit card accounts and run up  debts in your name. This will cause damage to your credit rating and  make it more difficult for you to obtain loans. Personal credentials can also lead to corporate data and government data access. 
+Besides stealing your money for a short-term monetary gain, the criminals want long-term profits by stealing your identity. 
+As medical costs rise, medical identity theft is also on the rise. The identity thieves can steal your medical insurance and use your medical benefits for themselves, 
+and these medical procedures are now in your medical records. 
+The annual tax filing procedures may vary from country to country; however, cybercriminals see this time as an opportunity. For example, 
+the people of the United States need to file their taxes by April 15 of  each year. 
+The Internal Revenue Service (IRS) does not check the tax  return against the information from the employer until July. 
+An identity thief can file a fake tax return and collect the refund. The legitimate filers will notice when their returns are rejected by IRS. With the  stolen identity, 
+they can also open credit card accounts and run up  debts in your name. 
+This will cause damage to your credit rating and  make it more difficult for you to obtain loans. 
+Personal credentials can also lead to corporate data and government data access. 
 
 ### Types of Organizational Data
 
 * **Traditional Data.**                            
-Corporate data includes personnel information, intellectual properties,  and financial data. The personnel information includes application  materials, payroll, offer letters, employee agreements, and any  information used in making employment decisions. Intellectual property,  such as patents, trademarks and new product plans, allows a business to  gain economic advantage over its competitors. This intellectual property can be considered a trade secret; losing this information can be  disastrous for the future of the company. The financial data, such as  income statements, balance sheets, and cash flow statements of a company gives insight into the health of the company.
+Corporate data includes personnel information, intellectual properties, and financial data. 
+The personnel information includes application materials, payroll, offer letters, employee agreements, and any information used in making employment decisions. 
+Intellectual property, such as patents, trademarks and new product plans, allows a business to  gain economic advantage over its competitors. 
+This intellectual property can be considered a trade secret; losing this information can be  disastrous for the future of the company. 
+The financial data, such as  income statements, balance sheets, and cash flow statements of a company gives insight into the health of the company.
 
 * **Internet of Things and Big Data.**                     
-With the emergence of the Internet of Things (IoT), there is a lot more  data to manage and secure. IoT is a large network of physical objects,  such as sensors and equipment that extend beyond the traditional  computer network. All these connections, plus the fact that we have  expanded storage capacity and storage services through the cloud and  virtualization, lead to the exponential growth of data. This data has  created a new area of interest in technology and business called “Big  Data". With the velocity, volume, and variety of data generated by the  IoT and the daily operations of business, the confidentiality, integrity and availability of this data is vital to the survival of the  organization.
+With the emergence of the Internet of Things (IoT), there is a lot more  data to manage and secure. IoT is a large network of physical objects, 
+such as sensors and equipment that extend beyond the traditional computer network. All these connections, plus the fact that we have  expanded storage 
+capacity and storage services through the cloud and virtualization, lead to the exponential growth of data. This data has  created a new area of interest 
+in technology and business called “Big  Data". With the velocity, volume, and variety of data generated by the  IoT and the daily operations of business, 
+the confidentiality, integrity and availability of this data is vital to the survival of the  organization.
 
 ### Confidentiality, Integrity, and Availability (CIA triad)
 
-Confidentiality, integrity and availability, known as the CIA triad  (Figure 1), is a guideline for information security for an organization. Confidentiality ensures the privacy of data by restricting access  through authentication encryption. Integrity assures that the  information is accurate and trustworthy. Availability ensures that the  information is accessible to authorized people.
+Confidentiality, integrity and availability, known as the CIA triad  (Figure 1), is a guideline for information security for an organization. 
+Confidentiality ensures the privacy of data by restricting access  through authentication encryption. Integrity assures that the  information is accurate and trustworthy. 
+Availability ensures that the  information is accessible to authorized people.
 
-* **Confidentiality.**                                                                                                                                                                                                      Another term for confidentiality would be privacy. Company policies  should restrict access to the information to authorized personnel and  ensure that only those authorized individuals view this data. The data  may be compartmentalized according to the security or sensitivity level  of the information. For example, a Java program developer should not  have to access to the personal information of all employees.  Furthermore, employees should receive training to understand the best  practices in safeguarding sensitive information to protect themselves  and the company from attacks. Methods to ensure confidentiality include  data encryption, username ID and password, two factor authentication,  and minimizing exposure of sensitive information.
-* **Integrity.**                                                                                                                                                                                                                              Integrity is accuracy, consistency, and trustworthiness of the data  during its entire life cycle. Data must be unaltered during transit and  not changed by unauthorized entities. File permissions and user access  control can prevent unauthorized access. Version control can be used to  prevent accidental changes by authorized users. Backups must be  available to restore any corrupted data, and checksum hashing can be  used to verify integrity of the data during transfer. A checksum is used to verify the integrity of files, or  strings of characters, after they have been transferred from one device  to another across your local network or the Internet. Checksums are  calculated with hash functions. Some of the common checksums are MD5,  SHA-1, SHA-256, and SHA-512. A hash function uses a mathematical  algorithm to transform the data into fixed-length value that represents  the data, as shown in Figure 2. The hashed value is simply there for  comparison. From the hashed value, the original data cannot be retrieved directly. For example, if you forgot your password, your password  cannot be recovered from the hashed value. The password must be reset.  After a file is downloaded, you can verify its integrity by verifying the hash values from the source with the one you generated  using any hash calculator. By comparing the hash values, you can ensure  that the file has not been tampered with or corrupted during the  transfer. 
-* **Availability.**                                                                                                                                                                                                                Maintaining equipment, performing hardware repairs, keeping operating  systems and software up to date, and creating backups ensure the  availability of the network and data to the authorized users. Plans  should be in place to recover quickly from natural or man-made  disasters. Security equipment or software, such as firewalls, guard  against downtime due to attacks such as denial of service (DoS). Denial  of service occurs when an attacker attempts to overwhelm resources so  the services are not available to the users.
+* **Confidentiality.**                                                                                                                                                                                                      
+Another term for confidentiality would be privacy. Company policies should restrict access to the information to authorized personnel 
+and ensure that only those authorized individuals view this data. The data  may be compartmentalized according to the security or sensitivity level  of the information. 
+For example, a Java program developer should not have to access to the personal information of all employees.  Furthermore, employees should receive training to understand the best 
+practices in safeguarding sensitive information to protect themselves  and the company from attacks. 
+Methods to ensure confidentiality include data encryption, username ID and password, two factor authentication, and minimizing exposure of sensitive information.
+
+* **Integrity.**                                                                                                                                                                                                                              
+Integrity is accuracy, consistency, and trustworthiness of the data  during its entire life cycle. Data must be unaltered during transit and  not changed by unauthorized entities. 
+File permissions and user access  control can prevent unauthorized access. Version control can be used to  prevent accidental changes by authorized users. Backups must be 
+available to restore any corrupted data, and checksum hashing can be  used to verify integrity of the data during transfer. 
+A checksum is used to verify the integrity of files, or  strings of characters, after they have been transferred from one device  to another across your local network or the Internet. 
+Checksums are  calculated with hash functions. Some of the common checksums are MD5,  SHA-1, SHA-256, and SHA-512. A hash function uses a mathematical algorithm to transform the data into 
+fixed-length value that represents the data, as shown in Figure 2 (Creating a hash). 
+The hashed value is simply there for comparison. 
+From the hashed value, the original data cannot be retrieved directly. For example, if you forgot your password, your password  cannot be recovered from the hashed value. The password must be reset.  
+After a file is downloaded, you can verify its integrity by verifying the hash values from the source with the one you generated  using any hash calculator. 
+By comparing the hash values, you can ensure that the file has not been tampered with or corrupted during the  transfer. 
+
+* **Availability.**                                                                                                                                                                                                                
+Maintaining equipment, performing hardware repairs, keeping operating  systems and software up to date, and creating backups ensure the  availability of the network and data to the authorized users. 
+Plans should be in place to recover quickly from natural or man-made disasters. Security equipment or software, such as firewalls, guard against downtime due to attacks such as denial of service (DoS). 
+Denial of service occurs when an attacker attempts to overwhelm resources so the services are not available to the users.
+
+![CIA triad](CIA_triad.jpeg)  |  ![Hash c](Creating_a_hash.jpeg)
+
+
