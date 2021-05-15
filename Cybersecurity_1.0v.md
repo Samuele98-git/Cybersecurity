@@ -42,15 +42,15 @@ and employment information, can also be used to identify you online.
 ![Data_circle](data_medical_rec.png)
 
 * **Medical records.**  
-Every time you go to the doctor’s office, more information is added to your electronic health records (EHRs). |
-The prescription from your family doctor becomes part of your EHR. Your EHR includes your physical health,    |
-mental health, and other personal information that may not be medically-related. For example,                 |  
-if you had counseling as a child when there were major changes in the family,                                 |
-this will be somewhere in your medical records.                                                               |![Data_circle](data_medical_rec.png)
-Besides your medical history and personal information, the EHR may also include information about your family.|
-Medical devices, such as fitness bands, use the cloud platform to enable wireless transfer,                   |
-storage and display of clinical data like heart rates, blood pressures and blood sugars.                      |
-These devices can generate an enormous amount of clinical data that could become part of your medical records.|
+Every time you go to the doctor’s office, more information is added to your electronic health records (EHRs).
+The prescription from your family doctor becomes part of your EHR. Your EHR includes your physical health,
+mental health, and other personal information that may not be medically-related. For example,     
+if you had counseling as a child when there were major changes in the family,                                 
+this will be somewhere in your medical records.
+Besides your medical history and personal information, the EHR may also include information about your family.
+Medical devices, such as fitness bands, use the cloud platform to enable wireless transfer,
+storage and display of clinical data like heart rates, blood pressures and blood sugars.
+These devices can generate an enormous amount of clinical data that could become part of your medical records.
 
 * **Education Records.**    
 As you progress through your education, information about your grades and test scores, your attendance, 
