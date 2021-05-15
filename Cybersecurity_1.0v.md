@@ -54,7 +54,7 @@ These devices can generate an enormous amount of clinical data that could become
 
 * Education Records.    
 As you progress through your education, information about your grades and test scores, your attendance, 
-courses taken, awards and degrees rewarded, and any disciplinary reports may be in your education record. ![Data_circle](data_medical_rec.png)
+courses taken, awards and degrees rewarded, and any disciplinary reports may be in your education record.
 This record may also include contact information, health and immunization records, and special education 
 records including individualized education programs (IEPs).
 
