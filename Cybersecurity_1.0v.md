@@ -167,7 +167,7 @@ Maintaining equipment, performing hardware repairs, keeping operating  systems a
 Plans should be in place to recover quickly from natural or man-made disasters. Security equipment or software, such as firewalls, guard against downtime due to attacks such as denial of service (DoS). 
 Denial of service occurs when an attacker attempts to overwhelm resources so the services are not available to the users.
 
-Figure 1                      |  Fugure 2
+Figure 1                      |  Figure 2
 :----------------------------:|:----------------------------:
 ![CIA triad](CIA_triad.jpeg)  |  ![Hash c](Creating_a_hash.jpeg)
 
