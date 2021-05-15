@@ -28,7 +28,7 @@ The username should not include any personal information.
 It should be something appropriate and respectful. 
 This username should not lead strangers to think you are an easy target for cybercrimes or unwanted attention.
 
-##Your Data
+## Your Data
 
 Any information about you can be considered to be your data. 
 This personal information can uniquely identify you as an individual. 
@@ -37,7 +37,7 @@ Other information, such as name, social security number, date and place of birth
 is known by you and used to identify you. Information such as medical, educational, financial, 
 and employment information, can also be used to identify you online.
 
-*Medical records
+* Medical records
 Every time you go to the doctor’s office, more information is added to your electronic health records (EHRs). 
 The prescription from your family doctor becomes part of your EHR. Your EHR includes your physical health, 
 mental health, and other personal information that may not be medically-related. For example, 
@@ -48,13 +48,13 @@ Medical devices, such as fitness bands, use the cloud platform to enable wireles
 storage and display of clinical data like heart rates, blood pressures and blood sugars. 
 These devices can generate an enormous amount of clinical data that could become part of your medical records.
 
-*Education Records
+* Education Records
 As you progress through your education, information about your grades and test scores, your attendance, 
 courses taken, awards and degrees rewarded, and any disciplinary reports may be in your education record. 
 This record may also include contact information, health and immunization records, and special education 
 records including individualized education programs (IEPs).
 
-*Employment and Financial Records
+* Employment and Financial Records
 Your financial record may include information about your income and expenditures. 
 Tax records could include paycheck stubs, credit card statements, your credit rating and other 
 banking information. Your employment information can include your past employment and your performance.
