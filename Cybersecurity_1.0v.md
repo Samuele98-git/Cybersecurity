@@ -1,8 +1,8 @@
 # **Basics of Cybersecurity by Cisco** 
 
-#**Introduction**
+## **Introduction**
 
-## The Need for Cybersecurity
+### The Need for Cybersecurity
 
 The connected electronic information network has become an integral part of our daily lives. 
 All types of organizations, such as medical, financial, and education institutions, 
@@ -17,7 +17,7 @@ At the corporate level, it is everyone’s responsibility to protect the organiz
 data, and customers. 
 At the state level, national security, and the safety and well-being of the citizens are at stake.
 
-## Offline and online identity
+### Offline and online identity
 
 As more time is spent online, your identity, both online and offline, can affect your life. 
 Your offline identity is the person who your friends and family interact with on a daily basis at home, 
@@ -30,7 +30,7 @@ The username should not include any personal information.
 It should be something appropriate and respectful. 
 This username should not lead strangers to think you are an easy target for cybercrimes or unwanted attention.
 
-## Your Data
+### Your Data
 
 Any information about you can be considered to be your data. 
 This personal information can uniquely identify you as an individual. 
@@ -61,7 +61,7 @@ Your financial record may include information about your income and expenditures
 Tax records could include paycheck stubs, credit card statements, your credit rating and other 
 banking information. Your employment information can include your past employment and your performance.
 
-## Where is your data
+### Where is your data
 
 All of this information is about you. There are different laws that protect your privacy 
 and data in your country. But do you know where your data is?
