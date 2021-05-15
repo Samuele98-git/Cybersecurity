@@ -170,5 +170,4 @@ Denial of service occurs when an attacker attempts to overwhelm resources so the
 Figure 1                      |  Figure 2
 :----------------------------:|:----------------------------:
 ![CIA triad](CIA_triad.jpeg)  |  ![Hash c](Creating_a_hash.jpeg)
-
-
+         ###### You can do a lab exercise here ->  
