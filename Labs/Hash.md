@@ -20,7 +20,7 @@ If any change is performed on the data, the hash value returned will be differen
 a. Search your computer for the Notepad program and open it.                                                      
 b. Type some text in the program.                                                                                 
 
-![Lab1_1](images/Lab1_1ss.PNG)
+![Lab1_1](/images/Lab1_1ss.PNG)
 
 c. Choose **File > Save**.                                                                                    
 d. Navigate to **Desktop**.                                                                                     
