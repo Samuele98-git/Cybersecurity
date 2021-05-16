@@ -61,7 +61,7 @@ Your financial record may include information about your income and expenditures
 Tax records could include paycheck stubs, credit card statements, your credit rating and other 
 banking information. Your employment information can include your past employment and your performance.
 
-![Data_circle](data_medical_rec.png)
+![Data_circle](images/data_medical_rec.png)
 
 ### Where is your data
 
@@ -167,9 +167,9 @@ Maintaining equipment, performing hardware repairs, keeping operating  systems a
 Plans should be in place to recover quickly from natural or man-made disasters. Security equipment or software, such as firewalls, guard against downtime due to attacks such as denial of service (DoS). 
 Denial of service occurs when an attacker attempts to overwhelm resources so the services are not available to the users.
 
-Figure 1                      |  Figure 2
-:----------------------------:|:----------------------------:
-![CIA triad](CIA_triad.jpeg)  |  ![Hash c](Creating_a_hash.jpeg)
+Figure 1                             |  Figure 2
+:-----------------------------------:|:----------------------------:
+![CIA triad](images/CIA_triad.jpeg)  |  ![Hash c](images/Creating_a_hash.jpeg)
 
 
 **You can do a lab exercise here** -> [Lab: Compare data with Hash](https://github.com/Samuele98-git/Cybersecurity/blob/main/Hash.md)
@@ -190,7 +190,7 @@ The company may be responsible for contacting all the affected customers about t
 With all this turmoil, employees may choose to leave the company. 
 The company may need to focus less on growing and more on repairing its reputation.
 
-![Consequences image](Consequence_sec_b.PNG) 
+![Consequences image](images/Consequence_sec_b.PNG) 
 
 ### Security Breach **Example 1** 
 
