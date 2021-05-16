@@ -18,11 +18,11 @@ b. Search fora few additionalinteresting breaches and record the findings in the
 
 | Incident date  |   Affected Organization   | How many victims?         What was Taken?   |  What exploits were used?          How do you Protect yourself?  | Reference Source   |
 | -------------- |:-------------------------:|:-------------------------------------------:|:----------------------------------------------------------------:|-------------------:|
-|                |                           |                                             |                                                                  |     [Security](https://www.securityweek.com/neiman-marcus-says-hackers-breached-customer-accounts)|
-|                |                           |                                             |                                                                  |          [BBC](https://www.bbc.co.uk/news/technology-35420306)|
-|.               |                           |                                             |                                                                  |                                                               |
-|.               |                           |                                             |                                                                  |                                                               |
-|.               |                           |                                             |                                                                  |                                                               |
+|     /   /      |                           |                                             |                                                                  |     [Security](https://www.securityweek.com/neiman-marcus-says-hackers-breached-customer-accounts)|
+|     /   /      |                           |                                             |                                                                  |          [BBC](https://www.bbc.co.uk/news/technology-35420306)|
+|     /   /      |                           |                                             |                                                                  |                                                               |
+|     /   /      |                           |                                             |                                                                  |                                                               |
+|     /   /      |                           |                                             |                                                                  |                                                               |
 
 
 ### Reflection
