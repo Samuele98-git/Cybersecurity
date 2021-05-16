@@ -16,12 +16,12 @@ explore a few security breaches to determine what was taken, what exploits were 
 a. Use the twoprovided links to security breaches from different sectors to fill out the table below.                                                             
 b. Search fora few additionalinteresting breaches and record the findings in the table below.                                                                       
 
-| Incident date  |   Affected Organization   | How many victims? What was Taken?   |  What exploits were used? How do you Protect yourself?  |  Reference Source   |
-| --------- |:-------------:|:-----------------:|:---------------------------:|--------------:|
-|           |               |                   |                             |     [Security](https://www.securityweek.com/neiman-marcus-says-hackers-breached-customer-accounts)|
-|           |               |                   |                             |          [BBC](https://www.bbc.co.uk/news/technology-35420306)|
-|           |               |                   |                             |               |
-|           |               |                   |                             |               |
+| Incident date  |   Affected Organization   | How many victims?         What was Taken?   |  What exploits were used?          How do you Protect yourself?  | Reference Source   |
+| -------------- |:-------------------------:|:-------------------------------------------:|:----------------------------------------------------------------:|-------------------:|
+|                |                           |                                             |                                                                  |     [Security](https://www.securityweek.com/neiman-marcus-says-hackers-breached-customer-accounts)|
+|                |                           |                                             |                                                                  |          [BBC](https://www.bbc.co.uk/news/technology-35420306)|
+|                |                           |_                                            |                                                                  |                                                               |
+|                |                           |_                                            |                                                                  |                                                               |
 
 
 ### Reflection
