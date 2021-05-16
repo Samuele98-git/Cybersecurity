@@ -20,8 +20,9 @@ b. Search fora few additionalinteresting breaches and record the findings in the
 | -------------- |:-------------------------:|:-------------------------------------------:|:----------------------------------------------------------------:|-------------------:|
 |                |                           |                                             |                                                                  |     [Security](https://www.securityweek.com/neiman-marcus-says-hackers-breached-customer-accounts)|
 |                |                           |                                             |                                                                  |          [BBC](https://www.bbc.co.uk/news/technology-35420306)|
-|                |                           |_                                            |                                                                  |                                                               |
-|                |                           |_                                            |                                                                  |                                                               |
+|.               |                           |                                             |                                                                  |                                                               |
+|.               |                           |                                             |                                                                  |                                                               |
+|.               |                           |                                             |                                                                  |                                                               |
 
 
 ### Reflection
