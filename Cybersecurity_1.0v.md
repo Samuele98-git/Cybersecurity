@@ -192,4 +192,57 @@ The company may need to focus less on growing and more on repairing its reputati
 
 ![Consequences image](Consequence_sec_b.PNG) 
 
+### Security Breach **Example 1** 
+
+The online password manager, LastPass, detected unusual activity on its network in July 2015. 
+It turned out that hackers had stolen user email addresses, password reminders, and authentication hashes. 
+Fortunately for the users, the hackers were unable to obtain anyone’s encrypted password vaults.
+Even though there was a security breach, LastPass could still safeguard the users’ account information. 
+LastPass requires email verification or multi-factor authentication whenever there is a new login from an unknown device or IP address. 
+The hackers would also need the master password to access the account.
+LastPass users also have some responsibility in safeguarding their own accounts. The users should always use complex master passwords and change the master passwords periodically. 
+The users should always beware of Phishing attacks. An example of a Phishing attack would be if an attacker sent fake emails claiming to be from LastPass. 
+The emails ask the users to click an embedded link and change the password. The link in the email goes to a fraudulent version of the website used to steal the master password. 
+The users should never click the embedded links in an email. The users should also be careful with their password reminder. The password reminder should not give away your passwords. 
+Most importantly, the users should enable multi-factor authentication when available for any website that offers it.
+If the users and service providers both utilize the proper tools and procedures to safeguard the users’ information, the users’ data could still be protected, even in the event of security breach.
+
+### Security Breach **Example 2**
+
+The high tech toy maker for children, Vtech, suffered a security breach to its database in November 2015. This breach could affect millions of customers around the world, including children. 
+The data breach exposed sensitive information including customer names, email addresses, passwords, pictures, and chat logs.
+A toy tablet had become a new target for hackers. The customers had shared photos and used the chat features through the toy tablets. The information was not secured properly, 
+and the company website did not support secure SSL communication. Even though the breach did not expose any credit card information and personal identification data, the 
+company was suspended on the stock exchange because the concern over the hack was so great.
+Vtech did not safeguard the customers’ information properly and it was exposed during the breach. Even though the company informed its customers that their passwords had been hashed, it was still possible for the hackers to decipher them. 
+The passwords in the database were scrambled using MD5 hash function, but the security questions and answers were stored in plaintext. Unfortunately, MD5 hash function has known vulnerabilities. 
+The hackers can determine the original passwords by comparing millions of pre-calculated hash values.
+With the information exposed in this data breach, cybercriminals could use it to create email accounts, apply for credits, and commit crimes before the children were old enough to go to school. For the parents of these children, 
+the cybercriminals could take over the online accounts because many people reuse their passwords on different websites and accounts.
+The security breach not only impacted the privacy of the customers, it ruined the company’s reputation, as indicated by the company when its presence on the stock exchange was suspended.
+For parents, it is a wake-up call to be more vigilant about their children’s privacy online and demand better security for children’s products. For the manufacturers of network-connected products, 
+they need to be more aggressive in the protection of customer data and privacy now and in the future, as the cyberattack landscape evolves.
+
+### Security Breach **Example 3**
+
+Equifax Inc. is one of the nationwide consumer credit reporting agencies in the United States. This company collects information on millions of individual customers and businesses worldwide. Based on the collected information, 
+credit scores and credit reports are created about the customers. This information could affect the customers when they apply for loans and when they are looking for employment.
+In September 2017, Equifax publicly announced a data breach event. The attackers exploited a vulnerability in the Apache Struts web application software. 
+The company believes that millions of U.S. consumers' sensitive personal data were accessed by the cyber criminals between May and July of 2017. The personal data includes the customers' full names, Social Security numbers, birth dates, addresses and other personally identifiable information. 
+There is evidence that the breach may have affected customers in United Kingdom and Canada.
+Equifax established a dedicated web site that allows the consumers to determine if their information was compromised, and to sign up for credit monitoring and identity theft protection. 
+Using a new domain name, instead of using a subdomain of equifax.com, this allowed nefarious parties to create unauthorized websites with similar names. These websites can be used as part of a phishing scheme to trick you into providing personal information. 
+Furthermore, an employee from Equifax provided an incorrect web link in social media for worried customers. Fortunately, this web site was taken down within 24 hours. It was created by an individual who use it as an educational opportunity to expose the vulnerabilities that exists in Equifax's response page.
+As a concerned consumer, you may want to quickly verify if your information was compromised, so you can minimize the impact. In a time of crisis, you may be tricked into using unauthorized websites. You should be cautious about providing personal information so you do not become a victim again. 
+Furthermore, companies are responsible for keeping our information safe from unauthorized access. Companies need to regularly patch and update their software to mitigate exploitation of known vulnerabilities. 
+Their employees should be educated and informed about the procedures to safeguard the information and what to do in the event of a breach.
+Unfortunately, the real victims of this breach are the individuals whose data may have been compromised. In this case, Equifax has the burden of protecting the collected consumer data while conducting credit checks because the customers did not choose to use the services provided by Equifax. 
+The consumer has to trust the company to safeguard the collected information. Furthermore, the attackers can use this data to assume your identity, and it is very difficult to prove otherwise because both the attacker and the victim know the same information. In these situations, 
+the most you can do is be vigilant when you are providing personally identifiable information over the Internet. Check your credit reports regularly (once per month or once per quarter). 
+Immediately report any false information, such as applications for credit that you did not initiate, or purchases on your credit cards that you did not make.
+
+**You can do a lab exercise here** -> [Lab: What was taken?(Not ready yet)](https://github.com/Samuele98-git/Cybersecurity)
+
+
+
 
