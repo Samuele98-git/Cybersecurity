@@ -20,7 +20,7 @@ If any change is performed on the data, the hash value returned will be differen
 a. Search your computer for the Notepad program and open it.                                                      
 b. Type some text in the program.                                                                                 
 
-![Lab1_1](main/images/Lab1_1ss.PNG)
+![Lab1_1](https://github.com/Samuele98-git/Cybersecurity/tree/main/images/Lab1_1ss.PNG)
 
 c. Choose **File > Save**.                                                                                    
 d. Navigate to **Desktop**.                                                                                     
@@ -29,18 +29,18 @@ e. Type **Hash** in the **File name**: field, and click **Save**.
 #### Step 2: Install HashCalc
 a. Open a web browser and navigate to http://www.slavasoft.com/download.htm.                                      
 
-![Lab1_2](images/Lab1_2ss.PNG)
+![Lab1_2](https://github.com/Samuele98-git/Cybersecurity/tree/main/images/Lab1_2ss.PNG)
 
 b. Click **Download** in the **HashCalc 2.02** row.                                                                                                                            
 c. Open the **hashcalc.zip** file and run the **setup.exe** file inside.
 
-![Lab1_3](images/Lab1_3ss.PNG)
+![Lab1_3](https://github.com/Samuele98-git/Cybersecurity/tree/main/images/Lab1_3ss.PNG)
 
 d. Follow the installation wizard to install HashCalc.                                                                            
 e. Click **Finish** on the last screen, and close the **README** file if it opened. You may read the file if you wish.                                                        
 f. HashCalc is now installed and running.                                                                         
 
-![Lab1_4](images/Lab1_4ss.PNG)
+![Lab1_4](https://github.com/Samuele98-git/Cybersecurity/tree/main/images/Lab1_4ss.PNG)
 
 #### Step 3: Calculate a hash of the Hash.txt file  
 a. Set the following items in HashCalc:
