@@ -241,7 +241,7 @@ The consumer has to trust the company to safeguard the collected information. Fu
 the most you can do is be vigilant when you are providing personally identifiable information over the Internet. Check your credit reports regularly (once per month or once per quarter). 
 Immediately report any false information, such as applications for credit that you did not initiate, or purchases on your credit cards that you did not make.
 
-**You can do a lab exercise here** -> [Lab: What was taken?(Not ready yet)](https://github.com/Samuele98-git/Cybersecurity)
+**You can do a lab exercise here** -> [Lab: What was taken?](https://github.com/Samuele98-git/Cybersecurity/blob/main/What_was_taken.md)
 
 
 
