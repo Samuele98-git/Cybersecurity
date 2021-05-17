@@ -172,7 +172,7 @@ Figure 1                             |  Figure 2
 ![CIA triad](images/CIA_triad.jpeg)  |  ![Hash c](images/Creating_a_hash.jpeg)
 
 
-**You can do a lab exercise here** -> [Lab: Compare data with Hash](https://github.com/Samuele98-git/Cybersecurity/blob/main/Labs/Hash.md)
+**You can do a lab exercise here** -> [Lab: Compare data with Hash](https://github.com/Samuele98-git/Cybersecurity/blob/main/Labs/Compare_Data_with_a_Hash.md)
 
 ### Consequences of a Security Breach
 
