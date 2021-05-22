@@ -312,7 +312,7 @@ The content explains why your personal online identity and data is vulnerable to
 This chapter also discussed organizational data: what it is, where it is, and why it must be protected. It explained who the cyber attackers are and what they want. 
 Cybersecurity professionals must have the same skills as the cyber attackers. Cybersecurity professionals must work within the bounds of the local, national and international law. Cybersecurity professionals must also use their skills ethically.
 Finally, this chapter briefly explained cyberwarfare and why nations and governments need cybersecurity professionals to help protect their citizens and infrastructure.
-If you would like to further explore the concepts in this chapter, please check out the -> ![Additional Resources and Activities](Pdfs/Additional Resources and Activities.pdf)
+If you would like to further explore the concepts in this chapter, please check out the [Additional Resources and Activities](https://github.com/Samuele98-git/Cybersecurity/blob/main/Pdfs/Additional%20Resources%20and%20Activities.pdf)
 
 
 
