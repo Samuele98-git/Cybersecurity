@@ -245,7 +245,7 @@ Immediately report any false information, such as applications for credit that y
 
 ### Types of Attackers
 
-Attackers are individuals or groups who attempt to exploit vulnerability for personal or financial gain. Attackers are interested in everything, from credit cards to product designs and anything with value.
+Attackers are individuals or groups who attempt to exploit vulnerability for personal or financial gain. Attackers are interested in everything, from credit cards to product designs and anything with value.                                                                                                            
 **Amateurs** - These people are sometimes called Script Kiddies. They are usually attackers with little or no skill, often using existing tools or instructions found on the Internet to launch attacks. Some of them are just curious, while others are trying to demonstrate their skills and cause harm. 
 They may be using basic tools, but the results can still be devastating.
 
@@ -253,12 +253,12 @@ They may be using basic tools, but the results can still be devastating.
 The white hat attackers break into networks or computer systems to discover weaknesses so that the security of these systems can be improved. These break-ins are done with prior permission and any results are reported back to the owner. 
 On the other hand, black hat attackers take advantage of any vulnerability for illegal personal, financial or political gain. Gray hat attackers are somewhere between white and black hat attackers. 
 The gray hat attackers may find a vulnerability in a system. Gray hat hackers may report the vulnerability to the owners of the system if that action coincides with their agenda. Some gray hat hackers publish the facts about the vulnerability on the Internet so that other attackers can exploit it.
-The figure gives details about the terms white hat hacker, black hat hacker, and gray hat hacker.
+The figure gives details about the terms white hat hacker, black hat hacker, and gray hat hacker.                                                                                                                                                                                                                                              
 **Organized Hackers** - These hackers include organizations of cyber criminals, hacktivists, terrorists, and state-sponsored hackers. Cyber criminals are usually groups of professional criminals focused on control, power, and wealth. 
 The criminals are highly sophisticated and organized, and they may even provide cybercrime as a service to other criminals. Hacktivists make political statements to create awareness to issues that are important to them. 
 State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. These attackers are usually highly trained and well-funded, and their attacks are focused on specific goals that are beneficial to their government.
 
-![Types of Attackers](images/Types_of_Attackers.PNG) 
+![Types of Attackers](images/Types_of_Attackers.png) 
 
 
 ### Internal and External Threats
@@ -277,7 +277,7 @@ Attacks can be originated from within an organization or from outside of the org
 Internal threats also have the potential to cause greater damage than external threats, because internal users have direct access to the building and its infrastructure devices. 
 Employees also have knowledge of the corporate network, its resources, and its confidential data, as well as different levels of user or administrative privileges.
 
-**External Security Threats**
+**External Security Threats**                                                                                                                                                                                                                                  
 External threats from amateurs or skilled attackers can exploit vulnerabilities in network or computing devices, or use social engineering to gain access.
 
 ![Internal and External Threats](images/Internal_and_External_Threats.PNG) 
@@ -310,7 +310,7 @@ The content explains why your personal online identity and data is vulnerable to
 This chapter also discussed organizational data: what it is, where it is, and why it must be protected. It explained who the cyber attackers are and what they want. 
 Cybersecurity professionals must have the same skills as the cyber attackers. Cybersecurity professionals must work within the bounds of the local, national and international law. Cybersecurity professionals must also use their skills ethically.
 Finally, this chapter briefly explained cyberwarfare and why nations and governments need cybersecurity professionals to help protect their citizens and infrastructure.
-If you would like to further explore the concepts in this chapter, please check out the [Additional Resources and Activities](.Pdfs/Additional Resources and Activities.pdf)
+If you would like to further explore the concepts in this chapter, please check out the -> [Additional Resources and Activities](Pdfs/Additional Resources and Activities.pdf)
 
 
 
