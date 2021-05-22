@@ -243,6 +243,81 @@ Immediately report any false information, such as applications for credit that y
 
 **You can do a lab exercise here** -> [Lab: What was taken?](https://github.com/Samuele98-git/Cybersecurity/blob/main/Labs/What_was_taken.md)
 
+### Types of Attackers
+
+Attackers are individuals or groups who attempt to exploit vulnerability for personal or financial gain. Attackers are interested in everything, from credit cards to product designs and anything with value.
+**Amateurs** - These people are sometimes called Script Kiddies. They are usually attackers with little or no skill, often using existing tools or instructions found on the Internet to launch attacks. Some of them are just curious, while others are trying to demonstrate their skills and cause harm. 
+They may be using basic tools, but the results can still be devastating.
+
+**Hackers** - This group of attackers break into computers or networks to gain access. Depending on the intent of the break-in, these attackers are classified as white, gray, or black hats. 
+The white hat attackers break into networks or computer systems to discover weaknesses so that the security of these systems can be improved. These break-ins are done with prior permission and any results are reported back to the owner. 
+On the other hand, black hat attackers take advantage of any vulnerability for illegal personal, financial or political gain. Gray hat attackers are somewhere between white and black hat attackers. 
+The gray hat attackers may find a vulnerability in a system. Gray hat hackers may report the vulnerability to the owners of the system if that action coincides with their agenda. Some gray hat hackers publish the facts about the vulnerability on the Internet so that other attackers can exploit it.
+The figure gives details about the terms white hat hacker, black hat hacker, and gray hat hacker.
+**Organized Hackers** - These hackers include organizations of cyber criminals, hacktivists, terrorists, and state-sponsored hackers. Cyber criminals are usually groups of professional criminals focused on control, power, and wealth. 
+The criminals are highly sophisticated and organized, and they may even provide cybercrime as a service to other criminals. Hacktivists make political statements to create awareness to issues that are important to them. 
+State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. These attackers are usually highly trained and well-funded, and their attacks are focused on specific goals that are beneficial to their government.
+
+![Types of Attackers](images/Types_of_Attackers.PNG) 
+
+
+### Internal and External Threats
+
+**Internal Security Threats**
+Attacks can be originated from within an organization or from outside of the organization, as shown in the figure. An internal user, such as an employee or contract partner, can accidently or intentionally:                                                                                                                                                             
+
+* Mishandle confidential data                                                                                                                                                                                                                        
+
+* Threaten the operations of internal servers or network infrastructure devices                                                                                                                                                                                                                                                                                                                                                         
+
+* Facilitate outside attacks by connecting infected USB media into the corporate computer system                                                                                                                                                                
+
+* Accidentally invite malware onto the network through malicious email or websites                                                                                                                                                                                                  
+
+Internal threats also have the potential to cause greater damage than external threats, because internal users have direct access to the building and its infrastructure devices. 
+Employees also have knowledge of the corporate network, its resources, and its confidential data, as well as different levels of user or administrative privileges.
+
+**External Security Threats**
+External threats from amateurs or skilled attackers can exploit vulnerabilities in network or computing devices, or use social engineering to gain access.
+
+![Internal and External Threats](images/Internal_and_External_Threats.PNG) 
+
+
+### What is Cyberwarfare?
+
+Cyberspace has become another important dimension of warfare, where nations can carry out conflicts without the clashes of traditional troops and machines. This allows countries with minimal military presence to be as strong as other nations in cyberspace. 
+Cyberwarfare is an Internet-based conflict that involves the penetration of computer systems and networks of other nations. 
+These attackers have the resources and expertise to launch massive Internet-based attacks against other nations to cause damage or disrupt services, such as shutting down a power grid.
+An example of a state-sponsored attack involved the Stuxnet malware that was designed to damage Iran’s nuclear enrichment plant. Stuxnet malware did not hijack targeted computers to steal information. 
+It was designed to damage physical equipment that was controlled by computers. It used modular coding that was programmed to perform a specific task within the malware. It used stolen digital certificates so the attack appeared legitimate to the system.
+
+**Learn more about Stuxnet** -> [Stuxnet video](https://vimeo.com/25118844)
+
+### The Purpose of Cyberwarfare
+
+The main purpose of cyberwarfare is to gain advantage over adversaries, whether they are nations or competitors.
+A nation can continuously invade other nation’s infrastructure, steal defense secrets, and gather information about technology to narrow the gaps in its industries and military. Besides industrial and militaristic espionage, 
+cyberwar can sabotage the infrastructure of other nations and cost lives in the targeted nations. For example, an attack can disrupt the power grid of a major city. Traffic would be disrupted. The exchange of goods and services is halted. 
+Patients cannot get the care needed in emergency situations. Access to the Internet may also be disrupted. By affecting the power grid, the attack can affect the everyday life of ordinary citizens.
+Furthermore, compromised sensitive data can give the attackers the ability to blackmail personnel within the government. The information may allow an attacker to pretend to be an authorized user to access sensitive information or equipment.
+If the government cannot defend against the cyberattacks, the citizens may lose confidence in the government’s ability to protect them. Cyberwarfare can destabilize a nation, 
+disrupt commerce, and affect the citizens’ faith in their government without ever physically invading the targeted nation.
+
+### Chapter 1: The Need for Cybersecurity
+
+This chapter explained the features and characteristics of cybersecurity. It explained why the demand for cybersecurity professionals will only continue to increase. 
+The content explains why your personal online identity and data is vulnerable to cyber criminals. It gives some tips on how you can protect your personal online identity and data.
+This chapter also discussed organizational data: what it is, where it is, and why it must be protected. It explained who the cyber attackers are and what they want. 
+Cybersecurity professionals must have the same skills as the cyber attackers. Cybersecurity professionals must work within the bounds of the local, national and international law. Cybersecurity professionals must also use their skills ethically.
+Finally, this chapter briefly explained cyberwarfare and why nations and governments need cybersecurity professionals to help protect their citizens and infrastructure.
+If you would like to further explore the concepts in this chapter, please check out the [Additional Resources and Activities](.Pdfs/Additional Resources and Activities.pdf)
+
+
+
+
+
+
+
 
 
 
