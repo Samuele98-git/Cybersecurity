@@ -314,9 +314,9 @@ Cybersecurity professionals must have the same skills as the cyber attackers. Cy
 Finally, this chapter briefly explained cyberwarfare and why nations and governments need cybersecurity professionals to help protect their citizens and infrastructure.
 If you would like to further explore the concepts in this chapter, please check out the [Additional Resources and Activities](https://github.com/Samuele98-git/Cybersecurity/blob/main/Pdfs/Additional%20Resources%20and%20Activities.pdf)
 
+
 --- 
 **NOTE** 
-
 I will soon make the second chapter with a link to redirect you from here
 
 ---
