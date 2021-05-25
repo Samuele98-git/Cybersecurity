@@ -317,6 +317,7 @@ If you would like to further explore the concepts in this chapter, please check 
 
 --- 
 **NOTE** 
+
 I will soon make the second chapter with a link to redirect you from here
 
 ---
